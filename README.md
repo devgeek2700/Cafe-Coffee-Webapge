@@ -27,9 +27,13 @@ JavaScript is employed to add interactivity to the webpage, enhancing user exper
 It a static Webpage so just install ## LIVE SERVER
 
 
-## Homepage 
+## Desktop View 
 
-![App Screenshot](https://github.com/devgeek2700/Cafe-Webpage/blob/master/Output/webpage.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/Cafe-Coffee-Webapge/blob/master/Output/desktopfinal.png?raw=true)
+
+## Moblie View 
+
+![App Screenshot](https://github.com/devgeek2700/Cafe-Coffee-Webapge/blob/master/Output/moblieview.png?raw=true)
 
 
 ## Contributing
